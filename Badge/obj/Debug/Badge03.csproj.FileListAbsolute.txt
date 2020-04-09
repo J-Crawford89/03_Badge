@@ -1,0 +1,7 @@
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\03_Badge\Badge\bin\Debug\Badge.exe.config
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\03_Badge\Badge\bin\Debug\Badge.exe
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\03_Badge\Badge\bin\Debug\Badge.pdb
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\03_Badge\Badge\obj\Debug\Badge03.csprojAssemblyReference.cache
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\03_Badge\Badge\obj\Debug\Badge03.csproj.CoreCompileInputs.cache
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\03_Badge\Badge\obj\Debug\Badge.exe
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\03_Badge\Badge\obj\Debug\Badge.pdb
